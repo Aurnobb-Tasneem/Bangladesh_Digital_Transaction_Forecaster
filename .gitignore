@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/ # If you use VS Code
+.idea/   # If you use PyCharm
+venv/
+.env/
+
+# Data files (if they are too large or sensitive to be version-controlled)
+# For this project, you might want to version control tab3.csv for now,
+# but for very large datasets, you'd ignore them.
+# data/
+
+# Operating System files
+.DS_Store
+Thumbs.db
